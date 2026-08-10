@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noelsopenclaw.github.io/scv-smart-and-final/sitemap.xml
